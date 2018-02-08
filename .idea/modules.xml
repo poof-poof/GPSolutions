@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GPsolutions.iml" filepath="$PROJECT_DIR$/GPsolutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task2/Task2.iml" filepath="$PROJECT_DIR$/Task2/Task2.iml" />
       <module fileurl="file://$PROJECT_DIR$/acmpRu/acmpRu.iml" filepath="$PROJECT_DIR$/acmpRu/acmpRu.iml" />
     </modules>
   </component>
